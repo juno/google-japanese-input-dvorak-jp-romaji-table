@@ -112,10 +112,13 @@ e	え
 f'	ふぁい
 f,	ふぉう
 f.	ふぇい
+f;          ふぁん
 fa	ふぁ
 fe	ふぇ
 ff	っ	f
 fi	ふぃ
+fj	ふぇん
+fk	ふん
 fna	ふゃ
 fne	ふぇ
 fni	ふぃ
@@ -125,6 +128,12 @@ fo	ふぉ
 fp	ふゅう
 fq	ふぉん
 fu	ふ
+fwa	ふぁ
+fwe	ふぇ
+fwi	ふぃ
+fwo	ふぉ
+fwu	ふぅ
+fx	ふぃん
 fya	ふゃ
 fye	ふぇ
 fyi	ふぃ
