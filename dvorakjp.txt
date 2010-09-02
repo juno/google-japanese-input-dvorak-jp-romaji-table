@@ -159,11 +159,14 @@ gn,	ぎょう
 gn.	ぎぇい
 gn;	ぎゃん
 gna	ぎゃ
+gne	ぎぇ
+gni	ぎぃ
 gnj	ぎぇん
 gnk	ぎゅん
 gno	ぎょ
 gnp	ぎゅう
 gnq	ぎょん
+gnu	ぎゅ
 gnx	ぎぃん
 go	ご
 gp	ぐう
@@ -173,6 +176,7 @@ gwa	ぐぁ
 gwe	ぐぇ
 gwi	ぐぃ
 gwo	ぐぉ
+gwu	ぐぅ
 gx	ぎん
 gya	ぎゃ
 gye	ぎぇ
