@@ -598,10 +598,5 @@ zp	ずう
 zq	ぞん
 zu	ず
 zx	じん
-zya	じゃ
-zye	じぇ
-zyi	じぃ
-zyo	じょ
-zyu	じゅ
 zz	っ	z
 ~	〜
